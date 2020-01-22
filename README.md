@@ -1,4 +1,5 @@
 # zoomgis.github.io
 zoomgis web page
 
-[Live Link](https://zoomgis.github.io)
+- [Home Link](https://zoomgis.github.io)
+- [BingKeyTest Link](https://zoomgis.github.io/bingkeytest)
